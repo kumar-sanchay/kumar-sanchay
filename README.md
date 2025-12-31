@@ -29,7 +29,7 @@ Passionate about **building intelligent, scalable, and high-performing systems**
 
 ---
 
-## 🚀 Latest Project
+## 🚀 Latest AI Agent Projects
 
 ### [AI Consulting & Service Proposal Generator](https://github.com/kumar-sanchay/buisness-proposal)
 
