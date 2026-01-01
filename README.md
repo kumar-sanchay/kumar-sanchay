@@ -31,7 +31,7 @@ Passionate about **building intelligent, scalable, and high-performing systems**
 
 ## 🚀 Latest AI Agent Projects
 
-### [AI Consulting & Service Proposal Generator](https://github.com/kumar-sanchay/buisness-proposal)
+### [AI Consulting & Service Proposal Generator](https://github.com/kumar-sanchay/business-proposal)
 
 An **intelligent, agent-driven system** for generating **high-quality consulting and service proposals** aligned with real-world industry standards.  
 
